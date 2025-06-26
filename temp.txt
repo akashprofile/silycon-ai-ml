@@ -1,0 +1,70 @@
+Hello Juniors,
+
+As we all know, many of you are facing difficulty keeping up with the basics, so we’ve designed a small 2-week task module to help you cover essential concepts and assess your involvement.
+
+These tasks are easy but important, and completing them sincerely will help determine who continues as an active member in the club.
+
+ Instructions:
+1. Complete all tasks listed below.
+
+2. Upload your code and notebooks on GitHub.
+
+3. Submit your GitHub repo link via a Google Form (link will be shared soon).
+
+4. Deadline: 2 weeks from today.
+
+5. Work hard and be honest—this is your assessment.
+
+
+*TASK1*
+*Python + NumPy + Pandas + Matplotlib Basics*
+
+Dataset: student_performance.csv
+Subtasks:
+1. Load the dataset using pandas.
+
+2. Calculate the following:
+
+3. Total number of students
+
+4. Students who studied > 2 hours
+
+5. Students who passed
+
+6. Students who studied > 2 hours and passed
+
+7. Percentage of students who passed among those who studied > 2 hours
+
+8. Use Bayes Theorem to compute:
+➤ Probability that a student studied > 2h given they passed
+
+
+
+*TASK2*
+Use Google Colab.
+Import any public Kaggle dataset of your choice.
+
+Perform EDA using:
+➤ pandas, numpy, matplotlib, seaborn, and scikit-learn
+
+Summarize the dataset and determine:
+Whether it is supervised or unsupervised learning
+Which type of algorithm (e.g., classification, regression, clustering) is best suited and why
+
+
+*TASK 3*
+
+Part A:
+Take a basic dataset (e.g., house prices, student scores, etc.)
+Apply Linear Regression using scikit-learn
+Plot the regression line and calculate Mean Squared Error
+
+Part B:
+Augment your dataset by adding noise or generating synthetic data
+Re-train your model on the augmented dataset
+Compare the performance before and after augmentation
+
+
+These tasks are simple but meant to test your understanding, consistency, and dedication.
+
+Let’s work hard and make this learning journey count. All the best!
